@@ -3,9 +3,9 @@
 ## 1. Problem Statement
 
 The business wants to understand:
-• Who are the most valuable customers?
-• Which segments drive revenue?
-• Where are potential revenue losses happening?
+- Who are the most valuable customers?
+- Which segments drive revenue?
+- Where are potential revenue losses happening?
 Goal: Identify actionable insights to improve customer targeting and revenue.
 
 ## 2. Dataset
